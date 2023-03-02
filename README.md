@@ -2,8 +2,6 @@
 🔭 I’m currently working on Front End<br>🌱 I’m currently learning Back End<br>
 
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edmilsonmedeiross) 
 
@@ -14,7 +12,6 @@
 ![](https://github-readme-streak-stats.sigma-five.herokuapp.com/?user=edmilsonmedeiross&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=edmilsonmedeiross&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=edmilsonmedeiross&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
