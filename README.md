@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Front End<br>🌱 I’m currently learning Back End<br>
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edmilsonmedeiross) 
