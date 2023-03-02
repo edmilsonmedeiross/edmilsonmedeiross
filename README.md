@@ -14,7 +14,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.sigma-five.vercel.app/?username=edmilsonmedeiross&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=edmilsonmedeiross&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=edmilsonmedeiross&icon=6&color=3)](https://visitcount.itsvg.in)
