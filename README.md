@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Front End<br>🌱 I’m currently learning Back End<br>
-
+🌐 https://edmilsonmedeiros.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edmilsonmedeiross) 
@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.sigma-five.vercel.app/api?username=edmilsonmedeiross&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edmilsonmedeiross&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=edmilsonmedeiross&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=edmilsonmedeiross&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
