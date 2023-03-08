@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End<br>🌱 I’m currently learning Back End<br>
+🔭 I’m currently looking work on Front End<br>🌱 I’m currently learning Back End<br>
 🌐 https://edmilsonmedeiros.vercel.app/
 
 ## 🌐 Socials:
