@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-🔭 I’m currently looking work on Front End<br>🌱 I’m currently learning Back End<br>
+👨‍💻 I currently work at Agrobook as a full stack developer <br>🌱 I'm studying GO at the moment<br>
 🌐 https://edmilsonmedeiros.vercel.app/
 
 ## 🌐 Socials:
