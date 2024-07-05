@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-👨‍💻 I currently work at Agrobook as a full stack developer <br>🌱 I'm studying GO at the moment<br>
+👨‍💻 I currently work at Agrobook as a full stack developer <br>🌱 I'm studying GO, C# e .NET at the moment<br>
 🌐 https://edmilsonmedeiros.vercel.app/
 
 ## 🌐 Socials:
